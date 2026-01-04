@@ -1,4 +1,8 @@
-Flask
-Flask_Cors
-requests
-ibm_watson_machine_learning
+flask
+flask-cors
+Requests
+SpeechRecognition
+pyaudio
+edge-tts
+asyncio
+pydub

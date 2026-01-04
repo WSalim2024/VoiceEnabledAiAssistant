@@ -1,0 +1,17 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual Environment (Crucial to ignore)
+venv/
+.venv/
+
+# IDE settings
+.idea/
+
+# Heavy Binaries (We don't upload these, users should download them)
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+*.mp3
+*.wav
